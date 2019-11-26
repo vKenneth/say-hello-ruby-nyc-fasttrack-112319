@@ -7,3 +7,6 @@ tags:
   - default arguments
 resources: 1
 
+def plus_five(number)
+	number + 5
+end
